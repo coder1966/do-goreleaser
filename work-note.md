@@ -73,7 +73,7 @@ https://goreleaser.com/customization/docker/?h=docker
 
 
 
-docker tag coder1966/test01/goreleaser coder1966/test01:77
+docker tag coder1966/test01/dogoreleaser coder1966/test01:77
 
 ```
 docker tag tomcat poloyy/tomcat:77
